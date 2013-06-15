@@ -1,6 +1,6 @@
-(defproject brolog "0.0.1"
-  :url "https://github.com/joshrotenberg/brolog"
+(defproject org.clojars.philc/brolog "0.1-SHAPSHOT"
   :description "JNA Access to syslog(3) in Clojure"
+  :url "https://github.com/joshrotenberg/brolog"
   ; This awt.headless=true prevents JNA from popping up a window when we run lein repl.
   ; http://stackoverflow.com/questions/11740012/clojure-java-pop-up-window
   :jvm-opts ["-Djava.awt.headless=true"]
