@@ -1,4 +1,4 @@
-(defproject org.clojars.philc/brolog "0.1-SHAPSHOT"
+(defproject org.clojars.philc/brolog "0.1-SNAPSHOT"
   :description "JNA Access to syslog(3) in Clojure"
   :url "https://github.com/joshrotenberg/brolog"
   ; This awt.headless=true prevents JNA from popping up a window when we run lein repl.
